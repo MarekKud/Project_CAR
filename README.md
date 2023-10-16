@@ -4,6 +4,9 @@
 Electronics to control a small vehicle .
 # PCB 3D
 ![PCB](https://github.com/MarekKud/Project_CAR/assets/92340461/07cab213-8447-4f85-b8d2-14238339ed1e)
+
+![IMG_20231016_223730](https://github.com/MarekKud/Project_CAR/assets/92340461/336bc2ba-c487-4a71-a8eb-efb789dbafe3)
+
 # PCB Transparent
 ![PCB Transparent](https://github.com/MarekKud/Project_CAR/assets/92340461/92a96318-db21-41c5-ba93-dee81f642720)
 # PCB driver Motors
