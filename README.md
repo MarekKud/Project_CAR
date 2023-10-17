@@ -1,6 +1,16 @@
 # Project_CAR
+
 # Project Specification.
+
+Project_Small_electronics_tester implemented on STM32F407VGT6.The project is based on a 32 bit processor of the STMicroelectronics ARM Cortex M4 family. PCB is designed on 4 layers. The device is originally used to test simple digital circuits.The design also includes a color display with touchscreen.Communication between the processor and the application is based on the Communication Device Class.
 # Languages and Tools.
+    OS: Linux Ubuntu
+    Languages: C/C++,GCC
+    IDEs : AVR Studio 
+    Programmer : PicKit 4
+    Schematic capture software : Altium
+    Microcontrollers :Atmega64 Microchip
+
 Electronics to control a small vehicle .
 # PCB 3D
 ![PCB](https://github.com/MarekKud/Project_CAR/assets/92340461/07cab213-8447-4f85-b8d2-14238339ed1e)
