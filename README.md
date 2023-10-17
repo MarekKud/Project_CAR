@@ -7,7 +7,7 @@
     OS: Linux Ubuntu
     Languages: C/C++,GCC
     IDEs : AVR Studio 
-    Programmer : PicKit 4
+    Programmer : PicKit 4, ISP 
     Schematic capture software : Altium
     Microcontrollers :Atmega64 Microchip
 
