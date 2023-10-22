@@ -24,3 +24,4 @@ Electronics to control a small vehicle .
 ![PCB Transparent](https://github.com/MarekKud/Project_CAR/assets/92340461/92a96318-db21-41c5-ba93-dee81f642720)
 # PCB driver Motors
 ![Driver](https://github.com/MarekKud/Project_CAR/assets/92340461/1c9f5290-1c4e-4816-afd7-37c35c0fb9fe)
+![PCB driver](https://github.com/MarekKud/Project_CAR/assets/92340461/9164f632-e444-4e00-bc56-3e321d1ea004)
