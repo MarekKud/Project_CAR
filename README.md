@@ -13,6 +13,9 @@
 
 Electronics to control a small vehicle .
 
+![IMG_20240323_112421](https://github.com/MarekKud/Project_CAR/assets/92340461/7d15170f-d68b-4c1c-8b5f-09e7d6575705)
+
+
 # PCB 3D
 
 
